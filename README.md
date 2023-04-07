@@ -1,12 +1,12 @@
-## Olá, meu nome Gabriel este aqui meu portfólio e fique a vontade. 😁
+### Olá, meu nome Gabriel este aqui meu portfólio e fique a vontade. 😁
 
-### (Hello, my name is Gabriel, this is my portfolio and feel free.)
+#### (Hello, my name is Gabriel, this is my portfolio and feel free.)
 
 <hr/>
 
-## Meu Objetivo é virar um desenvolvedor fullstack, e aqui estão minhas especialidades.
+### Meu Objetivo é virar um desenvolvedor fullstack, e aqui estão minhas especialidades.
 
-### (My goal is to become a fullstack developer, and here are my specialties.
+#### (My goal is to become a fullstack developer, and here are my specialties.
 )
 
 <div style="display: inline_block"><br>
