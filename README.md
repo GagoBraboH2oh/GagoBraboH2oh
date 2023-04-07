@@ -2,9 +2,7 @@
 #### (Hello, my name is Gabriel, this is my portfolio and feel free.)
 
 ### Meu Objetivo é virar um desenvolvedor fullstack, e aqui estão minhas especialidades.
-#### (My goal is to become a fullstack developer, and here are my specialties.
-)
-
+#### (My goal is to become a fullstack developer, and here are my specialties.)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
