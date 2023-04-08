@@ -4,6 +4,7 @@
 
 #### (Hello, my name is Gabriel, this is my portfolio and feel free.)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GagoBraboH2oh&show_icons=true&theme=tokyonight)
 
 <fieldset style="border: 1px solid lightgray">
@@ -25,9 +26,8 @@
 </fieldset>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh&layout=compact)](https://github.com/GagoBraboH2oh/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh&repo=all-my-coding)](https://github.com/GagoBraboH2oh/all-my-coding)
 
-<br>
 <div> 
 
 ### Quer trocar uma ideia? Então está meus contatos e minhas redes sociais.
@@ -43,6 +43,4 @@
 </div>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh&repo=all-my-coding)](https://github.com/GagoBraboH2oh/all-my-coding)
-
-<iframe src="https://giphy.com/embed/MEvIYrphaG38IgiDUk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hey-yo-whats-up-MEvIYrphaG38IgiDUk">via GIPHY</a></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh&langs_count=8)](https://github.com/GagoBraboH2oh/github-readme-stats)
