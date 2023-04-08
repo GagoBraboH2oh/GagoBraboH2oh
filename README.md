@@ -46,5 +46,9 @@
    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 </div>
 <br>
+<hr>
+
+### Essa são minhas estatísticas (isso pode bastante!)
+(That's my stats (that might a lot!))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh&langs_count=8)](https://github.com/GagoBraboH2oh/github-readme-stats)
