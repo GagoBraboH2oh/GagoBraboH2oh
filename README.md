@@ -25,9 +25,13 @@
 </div>
 </fieldset>
 <br>
+<hr>
+
+### Quer ver um repositorio meu? :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh&repo=all-my-coding)](https://github.com/GagoBraboH2oh/all-my-coding)
 
+<hr>
 <div> 
 
 ### Quer trocar uma ideia? Então está meus contatos e minhas redes sociais.
@@ -38,7 +42,7 @@
   <a href="https://www.instagram.com/gabriellu_amaral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrieljollygamer14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-amaral-9a85091ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5541995882217&text=Ola" target="_blank"><img width="100"
+  <a href="https://api.whatsapp.com/send?phone=5541995882217&text=Ola" target="_blank"><img
    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 </div>
 <br>
